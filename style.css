@@ -1,0 +1,18 @@
+body
+{
+	background-color:black;
+	color:white;
+	font-family:arial;
+}
+ul
+{
+	list-style-type;none;
+	padding-left:0px;
+}
+a:link
+{
+	color:lime;
+	text-decoration:none;
+}
+a:visited{color:red;}
+a:hover{font-weight:bold;}
